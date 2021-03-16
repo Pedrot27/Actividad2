@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_YHYxMIXcEeug0YLpx96VaQ" type="PapyrusUMLClassDiagram" name="clinica" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_rnn2oIXcEeug0YLpx96VaQ" type="Package_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_rnqS4IXcEeug0YLpx96VaQ" type="Package_NameLabel"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_rnt9QIXcEeug0YLpx96VaQ" type="Package_PackagedElementCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_x4eJoIXcEeug0YLpx96VaQ" type="Class_Shape_CN">
+        <children xmi:type="notation:DecorationNode" xmi:id="_x4fXwIXcEeug0YLpx96VaQ" type="Class_NameLabel_CN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_x4f-0IXcEeug0YLpx96VaQ" type="Class_FloatingNameLabel_CN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_x4f-0YXcEeug0YLpx96VaQ" y="15"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_x4gl4IXcEeug0YLpx96VaQ" type="Class_AttributeCompartment_CN">
+          <children xmi:type="notation:Shape" xmi:id="_OHQTkIXdEeug0YLpx96VaQ" type="Property_ClassAttributeLabel">
+            <element xmi:type="uml:Property" href="clinica.uml#_OGCLkIXdEeug0YLpx96VaQ"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_OHQTkYXdEeug0YLpx96VaQ"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_phWRMIXdEeug0YLpx96VaQ" type="Property_ClassAttributeLabel">
+            <element xmi:type="uml:Property" href="clinica.uml#_pgq7wIXdEeug0YLpx96VaQ"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_phWRMYXdEeug0YLpx96VaQ"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_JNbBYIXeEeug0YLpx96VaQ" type="Property_ClassAttributeLabel">
+            <element xmi:type="uml:Property" href="clinica.uml#_JMoXMIXeEeug0YLpx96VaQ"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_JNbBYYXeEeug0YLpx96VaQ"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_TfXyUIXeEeug0YLpx96VaQ" type="Property_ClassAttributeLabel">
+            <element xmi:type="uml:Property" href="clinica.uml#_Tem9UIXeEeug0YLpx96VaQ"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_TfXyUYXeEeug0YLpx96VaQ"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_2uk4wIXjEeug0YLpx96VaQ" type="Property_ClassAttributeLabel">
+            <element xmi:type="uml:Property" href="clinica.uml#_2tJVYIXjEeug0YLpx96VaQ"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_2uk4wYXjEeug0YLpx96VaQ"/>
+          </children>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_x4gl4YXcEeug0YLpx96VaQ"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_x4gl4oXcEeug0YLpx96VaQ"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_x4gl44XcEeug0YLpx96VaQ"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_x4gl5IXcEeug0YLpx96VaQ"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_x4hM8IXcEeug0YLpx96VaQ" type="Class_OperationCompartment_CN">
+          <children xmi:type="notation:Shape" xmi:id="_5NMpkIXeEeug0YLpx96VaQ" type="Operation_ClassOperationLabel">
+            <element xmi:type="uml:Operation" href="clinica.uml#_5MZ_YIXeEeug0YLpx96VaQ"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_5NMpkYXeEeug0YLpx96VaQ"/>
+          </children>
+          <styles xmi:type="notation:TitleStyle" xmi:id="_x4hM8YXcEeug0YLpx96VaQ"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_x4hM8oXcEeug0YLpx96VaQ"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_x4hM84XcEeug0YLpx96VaQ"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_x4hM9IXcEeug0YLpx96VaQ"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_x4hM9YXcEeug0YLpx96VaQ" type="Class_NestedClassifierCompartment_CN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_x4hM9oXcEeug0YLpx96VaQ"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_x4hM94XcEeug0YLpx96VaQ"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_x4hM-IXcEeug0YLpx96VaQ"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_x4hM-YXcEeug0YLpx96VaQ"/>
+        </children>
+        <element xmi:type="uml:Class" href="clinica.uml#_x3fSMIXcEeug0YLpx96VaQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_x4eJoYXcEeug0YLpx96VaQ" x="154" y="32" width="261" height="181"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_rnt9QYXcEeug0YLpx96VaQ"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rnt9QoXcEeug0YLpx96VaQ"/>
+    </children>
+    <element xmi:type="uml:Package" href="clinica.uml#_rncQcIXcEeug0YLpx96VaQ"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rnn2oYXcEeug0YLpx96VaQ" x="120" y="60" width="581" height="261"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_YHZYQIXcEeug0YLpx96VaQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_YHZYQYXcEeug0YLpx96VaQ"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_YHZYQoXcEeug0YLpx96VaQ" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+    <owner xmi:type="uml:Model" href="clinica.uml#_QOTVEIXcEeug0YLpx96VaQ"/>
+  </styles>
+  <element xmi:type="uml:Model" href="clinica.uml#_QOTVEIXcEeug0YLpx96VaQ"/>
+</notation:Diagram>
